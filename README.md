@@ -1,3 +1,9 @@
+## Install
+yarn install
+
+# Run local
+yarn start
+
 ## Folder Structure
 
 ```
